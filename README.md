@@ -1,4 +1,4 @@
-### Hi there, I'm Mo - aka Amiinoz [website] 👋
+### Hi 👋 there, I'm Mo - aka Amiinoz [website]
 
 ## I'm a  Full stack developer
 - 🔨  I’m currently working on a [HarvardX: CS50M][website]!
@@ -38,7 +38,8 @@
 <br />
 <br />
 ---
-# Blog posts
+
+### 📗  Latest Blog posts I am reading
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
