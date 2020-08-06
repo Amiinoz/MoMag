@@ -1,5 +1,5 @@
 
-[Amiinozheader]:
+[Amiinozheader]
 
 ### Hi 👋 there, I'm Mo - aka Amiinoz [website]
 
@@ -71,4 +71,8 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
+[Amiinozheader]:https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png
 
+
+[![Amiinoz
+header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https:momagan.com)
