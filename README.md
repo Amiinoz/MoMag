@@ -1,6 +1,6 @@
 
-![alt text](assets/github_header.png)
-
+<!-- ![alt text](assets/github_header.png) -->
+[<img align="center" alt="amiinoz | Header" width="400px" src="https://github.com/Amiinoz/Amiinoz/blob/master/assets/github_header.png" />][amiinozheader]!
 
 ### Hi 👋 there, I'm Mo - aka Amiinoz [website]
 
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="amiinoz | Header" width="200px" src="https://github.com/Amiinoz/Amiinoz/blob/master/assets/github_header.png" />]
+
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -74,4 +74,5 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
+[amiinozheader]:src"/assets/github_header.png
 
