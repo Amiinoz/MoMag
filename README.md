@@ -1,3 +1,6 @@
+
+[Amiinozheader]:
+
 ### Hi 👋 there, I'm Mo - aka Amiinoz [website]
 
 ## I'm a  Full stack developer
@@ -45,11 +48,20 @@
 ### 📗  Latest Blog posts I am reading
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amiinoz&show_icons=true&hide_border=true" />
+### 📈  My github stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amiinoz&show_icons=true&theme=radical)
+
+---
+### 📈  My github stats
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amiinoz&repo=github-readme-stats)](https://github.com/Amiinoz/github-readme-stats)
+
+
+
 
 [website]: https://momagan.com
 [twitter]: https://twitter.com/dev_mos
@@ -59,3 +71,4 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
+
