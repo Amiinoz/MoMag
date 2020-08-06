@@ -56,13 +56,12 @@
 
 
 
-### 📈  My github stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amiinoz&show_icons=true&theme=radical)
 
----
-### 📈  My github stats
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Amiinoz&repo=github-readme-stats)](https://github.com/Amiinoz/github-readme-stats)
 
+
+  ### 📈  My github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiinoz&layout=compact)](https://github.com/Amiinoz/github-readme-stats) |![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amiinoz&show_icons=true)   |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Amiinoz)  |
+| ------------- |:-------------:| -----:|
 
 
 
@@ -74,5 +73,5 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
-[amiinozheader]:src"/assets/github_header.png
+[amiinozheader]:https://github.com/Amiinoz
 
