@@ -5,7 +5,7 @@
 ### Hi 👋 there, I'm Mo - aka Amiinoz [website]
 
 ## I'm a  Full stack developer
-- 🔨  I’m currently working on a [HarvardX: CS50M][website]!
+- 🔨  I’m currently working on personal projects
 - 🌱 I’m learning everything 🤣
 - 🔭 Open to new opportunities around Calgary and Vancouver area
 - 👯 I’m looking to collaborate with other content creators
