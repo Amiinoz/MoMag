@@ -5,10 +5,9 @@
 ### Hi 👋 there, I'm Mo Magan [website]
 
 ## I'm a front end developer / Ux designer
-- 🔨  I’m currently working on personal projects
-- 🌱 I’m learning react native 🤣
+- 👯  I’m currently looking for new opportunities around Calgary and Vancouver
+- 🌱 I’m learning mobile development 🤣
 - 🔭 Open to new opportunities around Calgary and Vancouver area
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute none profit projects
 - ⚡ Fun fact: I love design / photography and play lots of sports
 
