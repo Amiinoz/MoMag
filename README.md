@@ -2,15 +2,15 @@
 <!-- ![alt text](assets/github_header.png) -->
 <!--[<img align="center" alt="amiinoz | Header" width="800px" src="https://github.com/Amiinoz/Amiinoz/blob/master/assets/github_header.png2" />][amiinozheader]-->
 
-### Hi 👋 there, I'm Mo - aka Amiinoz [website]
+### Hi 👋 there, I'm Mo Magan [website]
 
-## I'm a  Full stack developer
+## I'm a front end developer / Ux designer
 - 🔨  I’m currently working on personal projects
-- 🌱 I’m learning everything 🤣
+- 🌱 I’m learning react native 🤣
 - 🔭 Open to new opportunities around Calgary and Vancouver area
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 - 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love design / photography and play Soccer
+- 🥅 2022 Goals: Contribute none profit projects
+- ⚡ Fun fact: I love design / photography and play lots of sports
 
 ### Connect with me:
 
