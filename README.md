@@ -1,23 +1,23 @@
 
 <!-- ![alt text](assets/github_header.png) -->
 <!--[<img align="center" alt="amiinoz | Header" width="800px" src="https://github.com/Amiinoz/Amiinoz/blob/master/assets/github_header.png2" />][amiinozheader]-->
+### Hi there, I'm Mo - aka Amiinoz [website] 👋
 
-### Hi 👋 there, I'm Mo Magan [website]
-
-## I'm a front end developer / Ux designer
-- 👯  I’m currently looking for new opportunities around Calgary and Vancouver
-- 🌱 I’m learning mobile development 🤣
-- 🔭 Open to new opportunities around Calgary and Vancouver area
-- 🥅 2022 Goals: Contribute none profit projects
-- ⚡ Fun fact: I love design / photography and play lots of sports
+## I'm a  Full stack developer
+- 🔨  I’m currently working on personal projects
+- 🌱 I’m learning full stack mobile development 🤣
+- 🔭 Looking for new opportunities around Calgary and Vancouver area
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute non profit projects
+- ⚡ Fun fact: I love design / photography and play Soccer
 
 ### Connect with me:
 
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Moamiin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MoAmiin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MoAmiin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
