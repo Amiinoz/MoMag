@@ -5,7 +5,7 @@
 
 ## I'm a  Full stack developer
 - 🔨  I’m currently working on personal projects
-- 🌱 I’m learning full stack mobile development 🤣
+- 🌱 I’m learning React Native | C++ | Kubernaties | Tailwind 🤣
 - 🔭 Looking for new opportunities around Calgary and Vancouver area
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute non profit projects
