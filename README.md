@@ -4,12 +4,12 @@
 ### Hi there, I'm Mo Magan - aka Amiinoz [website] 👋
 
 ## I'm a  Full stack developer
-- 🔨  I’m currently working on personal projects
-- 🌱 I’m learning React Native | C++ | kubernetes | Tailwind 🤣
+- 🔨  I’m currently working on client projects
+- 🌱 I’m learning Java 🤣
 - 🔭 Looking for new opportunities around Calgary and Vancouver area
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute non profit projects
-- ⚡ Fun fact: I love design / photography and play Soccer
+- ⚡ Fun fact: I love UX Design & photography 
 
 ### Connect with me:
 
