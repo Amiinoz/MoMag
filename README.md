@@ -5,7 +5,7 @@
 
 ## I'm a  Full stack developer
 - 🔨  I’m currently working on client projects
-- 🌱 I’m learning Java 🤣
+- 🌱 I’m learning Java 
 - 🔭 Looking for new opportunities around Calgary and Vancouver area
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute non profit projects
