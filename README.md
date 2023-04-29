@@ -5,10 +5,7 @@
 
 ## I'm a  Full stack developer
 - 🔨  I’m currently working on client projects 
-- 🌱 I’m learning Everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Motion design
-- ⚡ Fun fact: I love UX Design & photography 
+- ⚡ Fun fact: I love UX Design, Soccer & photography 
 
 ### Connect with me:
 
