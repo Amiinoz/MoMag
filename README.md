@@ -3,7 +3,7 @@
 <!--[<img align="center" alt="amiinoz | Header" width="800px" src="https://github.com/Amiinoz/Amiinoz/blob/master/assets/github_header.png2" />][amiinozheader]-->
 ### Hi there, I'm Mo Magan - aka Amiinoz [website] 👋
 
-## I'm a  Full stack developer
+## I'm a Front end developer and UX designer 
 - 🔨  I’m currently working on client projects 
 - ⚡ Fun fact: I love UX Design, Soccer & photography 
 
