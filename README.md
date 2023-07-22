@@ -1,7 +1,7 @@
 
 <!-- ![alt text](assets/github_header.png) -->
 <!--[<img align="center" alt="amiinoz | Header" width="800px" src="https://github.com/Amiinoz/Amiinoz/blob/master/assets/github_header.png2" />][amiinozheader]-->
-### Hi there, I'm Mo Magan - aka Amiinoz [website] 👋
+### Hi there, I'm Mo Magan [website] 👋
 
 ## I'm a Front end developer and UX designer 
 - 🔨  I’m currently working on client projects 
